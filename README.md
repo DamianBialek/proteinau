@@ -1,4 +1,4 @@
-# blog_002
+# proteinau
 
 > A Vue.js project
 
